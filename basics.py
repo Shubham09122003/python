@@ -5,4 +5,5 @@ Python basics:
     function
     recursion
 '''
-for i in arr:
+for i in range(10):
+    print("shubh")
