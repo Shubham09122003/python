@@ -1,6 +1,7 @@
 '''
 Python basics:
-if elese 
-for while
-function
+    if elese 
+    loops
+    function
+    recursion
 '''
