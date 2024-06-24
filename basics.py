@@ -5,6 +5,6 @@ Python basics:
     function
     recursion
 '''
-for i in range(10):
+for _ in range(10):
     print("shubh")
     print("add another loop")
