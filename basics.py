@@ -7,3 +7,4 @@ Python basics:
 '''
 for i in range(10):
     print("shubh")
+    print("add another loop")
