@@ -5,4 +5,5 @@ Python basics:
     function
     recursion
 '''
-loops not added
+for _ in range(10):
+    print("shubh")
