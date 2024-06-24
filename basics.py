@@ -5,4 +5,4 @@ Python basics:
     function
     recursion
 '''
-no loops
+loops not added
